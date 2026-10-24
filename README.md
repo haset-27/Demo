@@ -1,85 +1,41 @@
-Calculator App
-
+Calculator Application
 Overview
-
-This is a simple calculator built using HTML, CSS, and JavaScript. It performs basic arithmetic operations through an interactive interface. This project was also created to practice Git and GitHub and learn how to manage a project using version control.
-
+This is a simple calculator application I developed using HTML, CSS, and JavaScript. It is designed to perform basic mathematical calculations through an easy-to-use interface. I also used this project to practice Git and GitHub and learn how to manage project files and track changes.
 Features
-
-Addition, subtraction, multiplication, and division
-
-Decimal number support
-
-Clear and delete functions
-
-Division-by-zero error handling
-
-Responsive and user-friendly design
-
+Addition
+Subtraction
+Multiplication
+Division
+Simple and user-friendly interface
 Technologies Used
-
-HTML5
-
-CSS3
-
+HTML
+CSS
 JavaScript
-
 Git
-
 GitHub
-
 Visual Studio Code
-
-Project Structure
-
-Demo/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-
-How to Run
-
-Clone or download this repository.
-
+How to Run the Project
+Clone this repository to your computer.
 Open the project folder in VS Code.
-
-Open index.html in a web browser.
-
-Use the calculator buttons to perform calculations.
-
-Example
-
-Input: 10 + 5
-
-Output: 15
-
-Git and GitHub Learning Objectives
-
-Through this project, I practiced how to:
-
-Create and manage a local Git repository.
-
+Open the index.html file in your web browser.
+Start using the calculator.
+Project Structure
+index.html – Contains the structure of the calculator.
+style.css – Defines the design and layout.
+script.js – Handles the calculator's functionality.
+README.md – Provides information about the project.
+Git and GitHub Practice
+In this project, I practiced how to:
+Create a GitHub repository.
+Initialize a local Git repository.
 Stage and commit changes.
-
-Connect a local repository to GitHub.
-
-Push local changes to GitHub.
-
-Pull changes from GitHub into VS Code.
-
+Push changes from VS Code to GitHub.
+Pull changes from GitHub to VS Code.
 Edit and delete files directly on GitHub.
-
-Synchronize local and remote changes.
-
-View commit history and track project changes.
-
-Write and update documentation using Markdown.
-
+Check commit history and synchronize changes.
+Write and update a README file using Markdown.
 Purpose
-
-The purpose of this project is to build a basic calculator while gaining practical experience with Git, GitHub, and VS Code. It helped me understand how local and remote repositories work together and how Git tracks changes throughout a project's development.
-
+The purpose of this project is to practice using Git and GitHub, understand how local and remote repositories work, and learn how to track and synchronize changes while managing a project.
 Author
-
 Eden Tesfaye
+
