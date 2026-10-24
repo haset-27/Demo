@@ -1,77 +1,56 @@
-Calculator Application
+# Calculator Application
 
-Overview
+## Overview
 
 This is a simple calculator application I developed using HTML, CSS, and JavaScript. It performs basic mathematical calculations through an easy-to-use interface. I also used this project to practice Git and GitHub.
 
-Features
+## Features
 
-Addition
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Simple and user-friendly interface
 
-Subtraction
+## Technologies Used
 
-Multiplication
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- Visual Studio Code
 
-Division
+## How to Run the Project
 
-Simple and user-friendly interface
+1. Clone this repository to your computer.
+2. Open the project folder in VS Code.
+3. Open the `index.html` file in your web browser.
+4. Start using the calculator.
 
-Technologies Used
+## Project Structure
 
-HTML
+- `index.html` — Contains the structure of the calculator.
+- `style.css` — Defines the design and layout.
+- `script.js` — Handles the calculator's functionality.
+- `README.md` — Provides project documentation.
 
-CSS
-
-JavaScript
-
-Git
-
-GitHub
-
-Visual Studio Code
-
-How to Run the Project
-
-Clone this repository to your computer.
-
-Open the project folder in VS Code.
-
-Open the index.html file in your web browser.
-
-Start using the calculator.
-
-Project Structure
-
-index.html — Contains the structure of the calculator.
-
-style.css — Defines the design and layout.
-
-script.js — Handles the calculator's functionality.
-
-README.md — Provides project documentation.
-
-Git and GitHub Practice
+## Git and GitHub Practice
 
 In this project, I practiced how to:
 
-Create a GitHub repository.
+- Create a GitHub repository.
+- Initialize a local Git repository.
+- Stage and commit changes.
+- Push changes from VS Code to GitHub.
+- Pull changes from GitHub to VS Code.
+- Edit and delete files directly on GitHub.
+- Review commit history and synchronize changes.
 
-Initialize a local Git repository.
-
-Stage and commit changes.
-
-Push changes from VS Code to GitHub.
-
-Pull changes from GitHub to VS Code.
-
-Edit and delete files directly on GitHub.
-
-Review commit history and synchronize changes.
-
-Purpose
+## Purpose
 
 The purpose of this project is to learn how Git and GitHub work, manage project files, track changes, and synchronize a local repository with a remote repository.
 
-Author
+## Author
 
 Eden Tesfaye
