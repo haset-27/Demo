@@ -1,71 +1,85 @@
-My Calculator Project Workflow
+Calculator App
 
-Step 1: Create a GitHub Account
+Overview
 
-First, I opened my web browser and visited GitHub. I clicked Sign up, created my account, completed the verification process, and signed in.
+This is a simple calculator built using HTML, CSS, and JavaScript. It performs basic arithmetic operations through an interactive interface. This project was also created to practice Git and GitHub and learn how to manage a project using version control.
 
-Step 2: Create a GitHub Repository
+Features
 
-After signing in, I clicked the + icon in the top-right corner and selected New repository. I named the repository Demo and clicked Create repository.
+Addition, subtraction, multiplication, and division
 
-Repository URL: https://github.com/haset-27/Demo
+Decimal number support
 
-Step 3: Open Visual Studio Code
+Clear and delete functions
 
-I opened Visual Studio Code (VS Code) on my computer to create and manage my calculator project files.
+Division-by-zero error handling
 
-Step 4: Create a Local Project Folder
+Responsive and user-friendly design
 
-I opened File Explorer, created a folder named Demo, and used it to store my calculator project.
+Technologies Used
 
-Step 5: Open the Project in VS Code
+HTML5
 
-I opened VS Code, clicked File → Open Folder, selected my Demo folder, and opened it.
+CSS3
 
-Step 6: Create the Project Files
+JavaScript
 
-I used the Explorer panel in VS Code to create index.html, style.css, script.js, and README.md. These files contain the calculator's webpage structure, design, functionality, and documentation.
+Git
 
-Step 7: Initialize Git
+GitHub
 
-I opened the Source Control panel in VS Code and clicked Initialize Repository. This created a local Git repository to track changes in my project.
+Visual Studio Code
 
-Step 8: Connect the Local Repository to GitHub
+Project Structure
 
-I connected my local repository to my GitHub repository using its URL. I used origin as the remote name and main as the branch.
+Demo/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
 
-Step 9: Stage the Project Files
+How to Run
 
-I opened the Source Control panel and clicked the + icon next to my files to stage them. Staging prepared my files for the next commit.
+Clone or download this repository.
 
-Step 10: Commit the Changes
+Open the project folder in VS Code.
 
-I entered the commit message Build calculator application in the Source Control message box and clicked Commit. This saved a snapshot of my staged files in my local Git repository.
+Open index.html in a web browser.
 
-Step 11: Push the Changes to GitHub
+Use the calculator buttons to perform calculations.
 
-I used the Push/Sync Changes option in VS Code to upload my local commit to GitHub. I then opened my GitHub repository in the browser and confirmed that my project files had been uploaded successfully.
+Example
 
-Step 12: Update the README on GitHub
+Input: 10 + 5
 
-I opened my Demo repository on GitHub and opened the README.md file. I clicked the pencil icon to edit it, updated the documentation to explain my workflow, and clicked Commit changes to save the update online.
+Output: 15
 
-Step 13: Delete the Unnecessary File
+Git and GitHub Learning Objectives
 
-I reviewed my project files and identified that calculator.py was unnecessary because my calculator uses HTML, CSS, and JavaScript. I deleted calculator.py from the GitHub repository and committed the deletion.
+Through this project, I practiced how to:
 
-Step 14: Pull Changes from GitHub
+Create and manage a local Git repository.
 
-After updating my README.md and deleting calculator.py on GitHub, I returned to VS Code, opened the Source Control panel, clicked the three-dot menu (⋯), and selected Pull to retrieve the latest changes.
+Stage and commit changes.
 
-Step 15: Verify the Changes
+Connect a local repository to GitHub.
 
-After pulling, I checked my local project in VS Code to confirm that the updated README was available and calculator.py had been removed.
+Push local changes to GitHub.
 
-Step 16: Push Changes to GitHub
+Pull changes from GitHub into VS Code.
 
-After pulling the changes, I used the Push/Sync Changes option in VS Code to synchronize my local repository with GitHub.
+Edit and delete files directly on GitHub.
 
-Step 17: Verify Synchronization
+Synchronize local and remote changes.
 
-Finally, I checked my local project in VS Code and my repository on GitHub to confirm that the changes were synchronized.
+View commit history and track project changes.
+
+Write and update documentation using Markdown.
+
+Purpose
+
+The purpose of this project is to build a basic calculator while gaining practical experience with Git, GitHub, and VS Code. It helped me understand how local and remote repositories work together and how Git tracks changes throughout a project's development.
+
+Author
+
+Eden Tesfaye
